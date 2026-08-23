@@ -60,6 +60,40 @@
 </details>
 
 <details>
+<summary>Sobre mi</summary>
+
+[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+
+<div align="left">
+
+```js
+/**
+ * Me representa a mí.
+ *
+ * @constructor
+ * @param {string} ubicacion - Colombia.
+ * @param {string} idiomas - Español, Inglés (English Dot Works Niveles 1-6, SENA).
+ * @param {string} rol - Estudiante de Análisis y Desarrollo de Software.
+ * @param {string} especializacion - Desarrollo Full-Stack, Bases de Datos y Gestión de Proyectos.
+ * @param {string} educacion - Bachiller (Gimnasio Piagetano) | Análisis y Desarrollo de Software (SENA).
+ * @param {string} liderazgo - Entrenamiento para Futuros Líderes Empresariales (Universidad Externado) | Curso de Dragoneante Militar (Ejército Nacional).
+ * @param {string} certificaciones - Limpieza y Análisis Exploratorio de Datos con Python, Metodología STEM, Estructuración de Proyectos, Pedagogía Infantil, Mecánica Automotriz, Primeros Auxilios y Atención en Salud (SENA).
+ * @param {string} intereses - Diseño UI/UX, Bases de Datos Relacionales e Inteligencia Artificial.
+ * @param {string} hobbies - Baloncesto, Call of Duty, Música y Programación.
+ * @param {string} accesible - Siempre abierto a colaborar en proyectos increíbles, contáctame.
+ * @param {string} fortalezas - Innovador, Ambicioso y Resuelto.
+ *
+ * @throws {Punch} A todos los bugs.
+ *
+ * @returns {Object} LuisFlorez.
+ */
+```
+
+</div>
+
+</details>
+
+<details>
 <summary>Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
