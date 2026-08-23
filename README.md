@@ -126,12 +126,12 @@
       <kbd>Artificial Intelligence & AI Assistants</kbd>
       <br>
       <br>
-      <img width="30px" src="https://img.icons8.com/?size=100&id=113575&format=png" alt="chatgpt" title="ChatGPT"/>
-      <img width="30px" src="https://img.icons8.com/?size=100&id=J9lMAnvA69e5&format=png" alt="gemini" title="Gemini Pro"/>
-      <img width="30px" src="https://img.icons8.com/?size=100&id=63784&format=png" alt="claude" title="Claude AI"/>
-      <img width="30px" src="https://img.icons8.com/?size=100&id=103328&format=png" alt="cursor" title="Cursor IDE"/>
-      <img width="30px" src="https://img.icons8.com/?size=100&id=38272&format=png" alt="opencode" title="OpenCode"/>
-      <img width="30px" src="https://img.icons8.com/?size=100&id=22982&format=png" alt="antigravity" title="AntiGravity"/>
+		<img width="30px" src="https://img.icons8.com/color/100/chatgpt.png" alt="chatgpt" title="ChatGPT"/>
+		<img width="30px" src="https://img.icons8.com/color/100/google-gemini.png" alt="gemini" title="Gemini Pro"/>
+		<img width="30px" src="https://img.icons8.com/color/100/claude-ia.png" alt="claude" title="Claude AI"/>
+		<img width="30px" src="https://img.icons8.com/color/100/cursor.png" alt="cursor" title="Cursor IDE"/>
+		<img width="30px" src="https://img.icons8.com/color/100/source-code.png" alt="opencode" title="OpenCode"/>
+		<img width="30px" src="https://img.icons8.com/color/100/rocket--v1.png" alt="antigravity" title="AntiGravity"/>
     </kbd>
     <kbd>
       <kbd>Data Science & Machine Learning</kbd>
@@ -140,7 +140,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="Matplotlib"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" title="Scikit-Learn"/>
     </kbd>
     <br>
     <br>
@@ -149,7 +148,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
+		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prezi/prezi-original.svg" alt="prezi" title="Prezi"/>
     </kbd>
     <kbd>
       <kbd>Tools & Environments</kbd>
