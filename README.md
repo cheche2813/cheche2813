@@ -6,11 +6,27 @@
   <summary><b>📂 Ver Proyectos Personales</b></summary>
   <br>
   <div align="center">
-    <img src="assets/proyecto1.png" width="600px" alt="Proyecto 1">
-    <p><b>Proyecto 1:</b> Descripción breve del proyecto.</p>
+
+    <!-- Proyecto 1: SIREC -->
+    <img src="assets/sirec.png" width="600px" alt="Sistema SIREC">
+    <p>
+      <b>SIREC (Sistema de Incentivos y Reciclaje):</b> Plataforma integral orientada al ámbito académico/institucional (SENA CSET) para automatizar el control de recolección de materiales reciclables. Incluye arquitectura de base de datos relacional y prototipo de aplicación móvil para la gestión de usuarios e incentivos.
+    </p>
     <hr>
-    <img src="assets/proyecto2.png" width="600px" alt="Proyecto 2">
-    <p><b>Proyecto 2:</b> Descripción breve del proyecto.</p>
+
+    <!-- Proyecto 2: Zupply -->
+    <img src="assets/zupply.png" width="600px" alt="Plataforma Zupply">
+    <p>
+      <b>Zupply:</b> Solución de software enfocada en la gestión de inventarios, cadena de suministro y control de proveedores, facilitando la trazabilidad de insumos y el monitoreo de stock en tiempo real.
+    </p>
+    <hr>
+
+    <!-- Proyecto 3: App de Viajes -->
+    <img src="assets/viajes.png" width="600px" alt="Aplicación de Viajes">
+    <p>
+      <b>App de Viajes / Turismo:</b> Aplicación web con interfaz atractiva e interactiva diseñada para la exploración de destinos turísticos, consulta de itinerarios y reserva de servicios para viajeros.
+    </p>
+
   </div>
 </details>
 
