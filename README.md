@@ -97,64 +97,82 @@
 <summary align="center"><b>Tech Stack & Tools</b></summary>
 <br>
 <div align="center">
+  <p align="center">
+    <!-- Programming Languages -->
+    <kbd>
+      <kbd>Programming Languages</kbd>
+      <br><br>
+      <img width="35px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /> 
+    </kbd>
 
-  <!-- Programming Languages -->
-  <h4>Programming Languages</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <!-- Front-end -->
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br><br>
+      <img width="35px" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /> 
+    </kbd>
 
-  <br><br>
+    <!-- Databases -->
+    <kbd>
+      <kbd>Databases</kbd>
+      <br><br>
+      <img width="35px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /> 
+    </kbd>
 
-  <!-- Front-end -->
-  <h4>Front-end</h4>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <br><br>
 
-  <br><br>
+    <!-- Data Science, Automation & AI -->
+    <kbd>
+      <kbd>Automation, Data Science & AI</kbd>
+      <br><br>
+      <img width="35px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=python" alt="Python Data Science" title="Python Data Science" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=dJ9L2B282I12&format=png" alt="NumPy" title="NumPy" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=xJ9L2B282I12&format=png" alt="Pandas" title="Pandas" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=v9L2B282I12&format=png" alt="Matplotlib" title="Matplotlib" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=38272&format=png" alt="Scikit-Learn" title="Scikit-Learn" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=113575&format=png" alt="ChatGPT" title="ChatGPT" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=63784&format=png" alt="Claude AI" title="Claude AI" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=103328&format=png" alt="Cursor" title="Cursor IDE" /> 
+    </kbd>
 
-  <!-- Databases -->
-  <h4>Databases</h4>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <br><br>
 
-  <br><br>
+    <!-- Tools & Environments -->
+    <kbd>
+      <kbd>Tools & Environments</kbd>
+      <br><br>
+      <img width="35px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=22982&format=png" alt="Jupyter" title="Jupyter Notebooks" /> 
+    </kbd>
 
-  <!-- Data Science & AI -->
-  <h4>Data Science & AI</h4>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+    <!-- Design & Multimedia -->
+    <kbd>
+      <kbd>Design & Multimedia</kbd>
+      <br><br>
+      <img width="35px" src="https://skillicons.dev/icons?i=canva" alt="Canva" title="Canva" /> 
+      <img width="35px" src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" /> 
+    </kbd>
 
-  <br><br>
+    <br><br>
 
-  <!-- Tools & Environments -->
-  <h4>Tools & Environments</h4>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-  <br><br>
-
-  <!-- Design & Multimedia -->
-  <h4>Design & Multimedia</h4>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-
-  <br><br>
-
-  <!-- Microsoft Office Suite -->
-  <h4>Microsoft Office Suite</h4>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access"/>
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-
+    <!-- Microsoft Office Suite -->
+    <kbd>
+      <kbd>Microsoft Office Suite</kbd>
+      <br><br>
+      <img width="35px" src="https://img.icons8.com/?size=100&id=117561&format=png" alt="Word" title="Microsoft Word" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=117563&format=png" alt="Excel" title="Microsoft Excel" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=117560&format=png" alt="PowerPoint" title="Microsoft PowerPoint" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=117558&format=png" alt="Access" title="Microsoft Access" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=117557&format=png" alt="Teams" title="Microsoft Teams" /> 
+      <img width="35px" src="https://img.icons8.com/?size=100&id=117559&format=png" alt="Outlook" title="Microsoft Outlook" /> 
+    </kbd>
+  </p>
 </div>
 </details>
 
