@@ -226,11 +226,20 @@
     <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Chiste Dev" />
   </p>
   <br>
-  <blockquote>
-    🤖 <b>— Hay 10 tipos de personas en el mundo:</b> las que entienden binario y las que no.
-    <br><br>
-    ☕ <b>— A programmer's life:</b> <i>"It works on my machine!"</i>
-  </blockquote>
+	<p align="center">
+	<table style="border: 2px solid #00bcff; border-radius: 10px; background-color: #0d1117; padding: 15px; width: 100%; max-width: 500px;">
+	<tr>
+	  <td style="border: none;">
+		<p style="color: #ff3366; font-weight: bold; margin-bottom: 8px;">
+		  P. ¿Por qué el ingeniero preocupado por la seguridad se negó a pagar la cuenta de la cena?
+		</p>
+		<p style="color: #00f2fe; font-weight: bold; margin: 0;">
+		  R. Porque no pudo verificar la suma de comprobación (checksum).
+		</p>
+	  </td>
+	</tr>
+	</table>
+	</p>
 </details>
 
 <details>
