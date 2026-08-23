@@ -149,7 +149,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
 	  <img width="30px" src="https://cdn.simpleicons.org/prezi/000000" alt="Prezi" title="Prezi"/>
-	  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="30px" />
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="30px" title="Microsoft" />
     </kbd>
     <kbd>
       <kbd>Tools & Environments</kbd>
