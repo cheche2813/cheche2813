@@ -2,33 +2,24 @@
   <img src="https://komarev.com/ghpvc/?username=cheche2813&label=Profile%20Views&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-<details>
-  <summary><b>📂 Ver Proyectos Personales</b></summary>
-  <br>
-  <div align="center">
-
-    <!-- Proyecto 1: SIREC -->
-    <img src="assets/sirec.png" width="600px" alt="Sistema SIREC">
-    <p>
-      <b>SIREC (Sistema de Incentivos y Reciclaje):</b> Plataforma integral orientada al ámbito académico/institucional (SENA CSET) para automatizar el control de recolección de materiales reciclables. Incluye arquitectura de base de datos relacional y prototipo de aplicación móvil para la gestión de usuarios e incentivos.
-    </p>
-    <hr>
-
-    <!-- Proyecto 2: Zupply -->
-    <img src="assets/zupply.png" width="600px" alt="Plataforma Zupply">
-    <p>
-      <b>Zupply:</b> Solución de software enfocada en la gestión de inventarios, cadena de suministro y control de proveedores, facilitando la trazabilidad de insumos y el monitoreo de stock en tiempo real.
-    </p>
-    <hr>
-
-    <!-- Proyecto 3: App de Viajes -->
-    <img src="assets/viajes.png" width="600px" alt="Aplicación de Viajes">
-    <p>
-      <b>App de Viajes / Turismo:</b> Aplicación web con interfaz atractiva e interactiva diseñada para la exploración de destinos turísticos, consulta de itinerarios y reserva de servicios para viajeros.
-    </p>
-
-  </div>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/cheche2813/PROYECTO-1">
+          <img src="assets/proyecto1.png" width="350px" alt="Proyecto 1"/><br />
+          <b>Nombre Proyecto 1</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/cheche2813/PROYECTO-2">
+          <img src="assets/proyecto2.png" width="350px" alt="Proyecto 2"/><br />
+          <b>Nombre Proyecto 2</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
