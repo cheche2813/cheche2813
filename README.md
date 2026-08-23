@@ -202,92 +202,49 @@
   </ul>
 </details>
 
+<!-- ESPAÑOL E INGLÉS EN UN SOLO DESPLEGABLE -->
 <details>
-
-  <summary>Quote</summary>
-
+  <summary><b>Frase del Día / Quote</b></summary>
   <br>
-
   <blockquote>
-
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
-
+    “Un bug nunca es solo un error. Representa algo más grande. Un error de pensamiento. Eso es lo que te define.”
+    <br><strong>— Mr. Robot (Elliot Alderson)</strong>
   </blockquote>
-
+  <hr>
+  <blockquote>
+    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
+    <br><strong>— Mr. Robot (Elliot Alderson)</strong>
+  </blockquote>
 </details>
-
-
 
 <details>
-
-  <summary>Free DOSE hit</summary>
-
+  <summary><b>Dosis Gratuita de Dopamina / Free DOSE hit</b></summary>
   <br>
-
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-
+  <small><i>DOSE (dopamina, oxitocina, serotonina y endorfina). Recarga la página si la dosis no hizo efecto. / Refresh page if dose was ineffective.</i></small>
   <br>
-
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-
+  <div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Chiste para desarrolladores" />
+  </div>
 </details>
-
-
 
 <details>
-
-<summary>What can I do for you?</summary>
-
-<table style="border: none">
-
-  <tr>
-
-  <td width="50%" valign="top">
-
-
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-
-
-## Let's Work on Your Project Together!
-
-
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
-
-
-
-  </td>
-
-  <td width="50%" valign="top">
-
-
-
-## It's not perfect, isn't it?
-
-
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-
-<br><strong>– Elon Musk</strong></blockquote>
-
-
-
-  </td>
-
-  </tr>
-
-</table>
-
+  <summary><b>¿En qué puedo ayudarte? / What can I do for you?</b></summary>
+  <br>
+  <table style="border: none">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>¡Trabajemos juntos! / Let's Work Together!</h2>
+        <p>Si tienes preguntas sobre desarrollo web, documentación o IA, escríbeme por correo. / If you have questions about web development, documentation, or AI, feel free to email me: <a href="mailto:nexioratechnologies@gmail.com">nexioratechnologies@gmail.com</a>.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h2>Retroalimentación / Feedback Loop</h2>
+        <p><b><img alt="Feedback" src="https://img.shields.io/badge/Pregúntame-Ask%20me-1abc9c.svg"></b></p>
+        <blockquote>“Es muy importante tener un bucle de retroalimentación, donde pienses constantemente en lo que has hecho y cómo hacerlo mejor.” / “I think it’s very important to have a feedback loop...”
+        <br><strong>— Elon Musk</strong></blockquote>
+      </td>
+    </tr>
+  </table>
 </details>
-
 
 
 </details>
