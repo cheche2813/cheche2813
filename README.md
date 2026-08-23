@@ -92,11 +92,12 @@
 </div>
 
 </details>
+
 <details>
-<summary><b>Tech Stack & Tools</b></summary>
+<summary align="center"><b>Tech Stack & Tools</b></summary>
 <br>
-<div align="left">
-  <p>
+<div align="center">
+  <p align="center">
     <kbd>
       <b>Programming Languages</b>
       <br><br>
@@ -118,17 +119,25 @@
     </kbd>
     <br><br>
     <kbd>
-      <b>Data Science & AI</b>
+      <b>Automation, Data Science & AI</b>
       <br><br>
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" title="Puppeteer"/> 
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="playwright" title="Playwright"/> 
+      <img width="35px" src="https://seeklogo.com/images/A/appium-logo-789E23D0D3-seeklogo.com.png" alt="appium" title="Appium"/> 
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="Matplotlib"/> 
-      <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="Scikit-Learn"/> 
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="Scikit-Learn"/> 
+      <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" title="ChatGPT"/> 
+      <img width="35px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/> 
     </kbd>
+    <br><br>
     <kbd>
-      <b>Tools & Version Control</b>
+      <b>Tools & Environments</b>
       <br><br>
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code"/> 
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" title="Jupyter Notebooks"/> 
     </kbd>
   </p>
 </div>
