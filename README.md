@@ -98,6 +98,7 @@
 <br>
 <div align="center">
   <p align="center">
+    <!-- Lenguajes de Programación -->
     <kbd>
       <b>Programming Languages</b>
       <br><br>
@@ -105,12 +106,16 @@
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
     </kbd>
+    
+    <!-- Front-end -->
     <kbd>
       <b>Front-end</b>
       <br><br>
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS3"/> 
     </kbd>
+    
+    <!-- Bases de Datos -->
     <kbd>
       <b>Databases</b>
       <br><br>
@@ -118,6 +123,8 @@
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="PostgreSQL"/> 
     </kbd>
     <br><br>
+
+    <!-- Automatización, Ciencia de Datos e IA -->
     <kbd>
       <b>Automation, Data Science & AI</b>
       <br><br> 
@@ -125,20 +132,42 @@
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="Matplotlib"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="Scikit-Learn"/> 
-      <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" title="ChatGPT"/> 
-	  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/> 
-      <img width="35px" src="https://raw.githubusercontent.com/skylining/Claude-SVG/main/claude-ai-icon.svg" alt="claude" title="Claude AI"/> 
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="cursor" title="Cursor IDE"/> 
-      <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="opencode" title="Open Code"/> 
-      <img width="35px" src="https://api.iconify.design/lucide:sparkles.svg" alt="antigravity" title="Antigravity"/>
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:openai.svg?color=%2310a37f" alt="chatgpt" title="ChatGPT"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23d97757" alt="claude" title="Claude AI"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:cursor.svg?color=%23000000" alt="cursor" title="Cursor IDE"/> 
+      <img width="35px" src="https://api.iconify.design/lucide:sparkles.svg?color=%238a2be2" alt="antigravity" title="Antigravity"/>
     </kbd>
     <br><br>
+
+    <!-- Herramientas y Entornos -->
     <kbd>
       <b>Tools & Environments</b>
       <br><br>
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" title="Jupyter Notebooks"/> 
+    </kbd>
+
+    <!-- Diseño & Creatividad -->
+    <kbd>
+      <b>Design & Multimedia</b>
+      <br><br>
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" title="Canva"/> 
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma"/> 
+    </kbd>
+    <br><br>
+
+    <!-- Paquete Microsoft Office -->
+    <kbd>
+      <b>Microsoft Office Suite</b>
+      <br><br>
+      <img width="35px" src="https://api.iconify.design/simple-icons:microsoftword.svg?color=%232B579A" alt="word" title="Microsoft Word"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=%23217346" alt="excel" title="Microsoft Excel"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:microsoftpowerpoint.svg?color=%23B7472A" alt="powerpoint" title="Microsoft PowerPoint"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:microsoftaccess.svg?color=%23A4373A" alt="access" title="Microsoft Access"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:microsoftteams.svg?color=%236264A7" alt="teams" title="Microsoft Teams"/> 
+      <img width="35px" src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078D4" alt="outlook" title="Microsoft Outlook"/> 
     </kbd>
   </p>
 </div>
