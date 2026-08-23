@@ -131,7 +131,7 @@
 		<img width="30px" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude AI" title="Claude AI"/>
 		<img width="30px" src="https://cdn.simpleicons.org/cursor/000000" alt="cursor" title="Cursor IDE"/>
 		<img width="30px" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/opencode.png" alt="OpenCode" title="OpenCode"/>
-		<img width="30px" src="https://zonalogo.com/assets/google-antigravity-logo.webp" alt="antigravity" title="AntiGravity"/>title="AntiGravity"/>
+		<img width="30px" src="https://zonalogo.com/assets/google-antigravity-logo.webp" alt="antigravity" title="AntiGravity"/>
     </kbd>
     <kbd>
       <kbd>Data Science & Machine Learning</kbd>
