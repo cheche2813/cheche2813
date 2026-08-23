@@ -274,26 +274,26 @@
 
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-  <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
+  <!-- GitHub -->
+  <a href="https://github.com/cheche2813" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub" />
   </a>
 
-  <a href="mailto:kkapagte5@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" />
+  <!-- Gmail / Email -->
+  <a href="mailto:cheche2813@gmail.com?subject=Hola%20Luis!" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" />
   </a>
 
-  <a href="https://leetcode.com/kk10-/" target="_blank">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" />
+  <!-- Discord -->
+  <a href="https://discord.com/users/cheche28135199" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord" />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank">
-    <img height="28" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" />
-  </a>
-
-  <a href="https://steamcommunity.com/id/kk10-/" target="_blank">
-    <img height="28" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" alt="Steam" />
+  <!-- Steam -->
+  <a href="https://steamcommunity.com/id/cheche2813/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=" alt="Steam" />
   </a>
 
 </div>
