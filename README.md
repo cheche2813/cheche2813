@@ -203,64 +203,61 @@
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary><b>Frase del Día</b></summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+    “Un bug nunca es solo un error. Representa algo más grande. Un error de pensamiento. Eso es lo que te define.”
+    <br><strong>— Mr. Robot (Elliot Alderson)</strong>
   </blockquote>
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
+  <summary><b>Humor para Devs</b></summary>
   <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
+  <small><i>Un poco de dopamina para el código. Actualiza la página si necesitas otro chiste.</i></small>
   <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
+  <div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Chiste para programadores" />
+  </div>
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
-</table>
+  <summary><b>¿Cómo podemos trabajar juntos?</b></summary>
+  <br>
+  <table style="border: none">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>¡Desarrollemos tu Proyecto!</h2>
+        <p>Si tienes preguntas sobre desarrollo web, arquitectura de bases de datos o integración de IA, escríbeme. Con gusto colaboramos.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h2>Retroalimentación</h2>
+        <p><b><img alt="Feedback" src="https://img.shields.io/badge/Pregúntame-lo%20que%20sea-1abc9c.svg"></b></p>
+        <blockquote>“Es muy importante tener un bucle de retroalimentación, donde pienses constantemente en lo que has hecho y cómo podrías hacerlo mejor.”
+        <br><strong>— Elon Musk</strong></blockquote>
+      </td>
+    </tr>
+  </table>
 </details>
 
-</details>
+<hr>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
+<div align="center">
+  <a href="https://github.com/cheche2813" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alejandro-florez-parra-89599a311/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nexioratechnologies@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" />
+  </a>
 </div>
 
-<div align=center>
- <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:kkapagte5@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://leetcode.com/kk10-/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
-<a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
-</div>
+<br>
 
-------
+<div align="center">
+  <small>Desarrollado por <b>Luis Alejandro Florez Parra</b> | Última actualización: 2026</small>
+</div>
 Credit: [10Kartik](https://github.com/10Kartik)
 
-Last Edited on: 18/01/2024
