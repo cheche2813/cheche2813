@@ -165,21 +165,18 @@
 </details>
 
 <details>
-  <summary><b>Estadísticas de GitHub</b></summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://metrics.lecoq.io/cheche2813?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FBogota" alt="Estadísticas de GitHub" />
-  </p>
-</details>
-
-<details>
-  <summary>Open Source Contributions</summary>
+  <summary><b>Open Source Contributions & Featured Projects</b></summary>
   <br>
   <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
+    <li>
+      <b>SIREC - Recycling & Incentives Management System:</b> Designed and developed the database model and backend logic for an automated recycling management system focused on sustainability.
+    </li>
+    <li>
+      <b>Nexiora Technologies:</b> Built responsive web platforms and tailored digital solutions for small and medium-sized enterprises (SMEs) using modern UI/UX principles.
+    </li>
+    <li>
+      <b>Academic & Data Science Repositories:</b> Developed exploratory data analysis (EDA) scripts, machine learning models (K-Means, Scikit-Learn), and visual dashboards in Python.
+    </li>
   </ul>
 </details>
 
