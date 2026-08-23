@@ -129,9 +129,9 @@
 		<img width="30px" src="https://img.icons8.com/color/100/chatgpt.png" alt="chatgpt" title="ChatGPT"/>
 		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gemini" title="Google Gemini"/>
 		<img width="30px" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude AI" title="Claude AI"/>
-		<img width="30px" src="https://img.icons8.com/color/100/cursor.png" alt="cursor" title="Cursor IDE"/>
-		<img width="30px" src="https://img.icons8.com/color/100/source-code.png" alt="opencode" title="OpenCode"/>
-		<img width="30px" src="https://img.icons8.com/color/100/rocket--v1.png" alt="antigravity" title="AntiGravity"/>
+		<img width="30px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-png/dark/cursor.png" alt="Cursor IDE" title="Cursor IDE"/>
+		<img width="30px" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/opencode.png" alt="OpenCode" title="OpenCode"/>
+		<img width="30px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-png/dark/antigravity.png" alt="AntiGravity" title="AntiGravity"/>
     </kbd>
     <kbd>
       <kbd>Data Science & Machine Learning</kbd>
