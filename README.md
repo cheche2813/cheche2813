@@ -169,13 +169,35 @@
   <br>
   <ul>
     <li>
-      <b>SIREC - Recycling & Incentives Management System:</b> Designed and developed the database model and backend logic for an automated recycling management system focused on sustainability.
+      <b>Zupply:</b> Developed and optimized core functionalities for the supply chain management platform.
     </li>
     <li>
-      <b>Nexiora Technologies:</b> Built responsive web platforms and tailored digital solutions for small and medium-sized enterprises (SMEs) using modern UI/UX principles.
+      <b>SIREC - Recycling Management System:</b> Designed the database architecture and backend logic for an automated recycling and incentives platform.
     </li>
     <li>
-      <b>Academic & Data Science Repositories:</b> Developed exploratory data analysis (EDA) scripts, machine learning models (K-Means, Scikit-Learn), and visual dashboards in Python.
+      <b>Nexiora Technologies:</b> Built tailored web platforms and modern UI/UX digital solutions for small and medium businesses.
+    </li>
+    <li>
+      <b>Data Science & ML Repositories:</b> Implemented exploratory data analysis (EDA) scripts, machine learning models, and visual dashboards in Python.
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Contribuciones de Código Abierto y Proyectos</b></summary>
+  <br>
+  <ul>
+    <li>
+      <b>Zupply:</b> Desarrollo y optimización de funcionalidades para la plataforma de gestión y cadena de suministro.
+    </li>
+    <li>
+      <b>SIREC - Sistema de Gestión de Reciclaje:</b> Diseño y arquitectura de base de datos para el sistema automatizado de reciclaje e incentivos.
+    </li>
+    <li>
+      <b>Nexiora Technologies:</b> Creación de plataformas web y soluciones digitales a medida para pequeñas y medianas empresas.
+    </li>
+    <li>
+      <b>Repositorios de Ciencia de Datos:</b> Desarrollo de scripts para análisis exploratorio de datos (EDA), visualización y modelos de machine learning en Python.
     </li>
   </ul>
 </details>
