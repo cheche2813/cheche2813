@@ -34,23 +34,24 @@
 
 ```js
 /**
- * Represents me.
+ * Represents Luis Florez.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} location - Colombia.
+ * @param {string} languages - Spanish, English (English Dot Works 1-6, SENA).
+ * @param {string} role - Software Analysis and Development Student.
+ * @param {string} specialization - Full-Stack Web Development, Databases & Project Management.
+ * @param {string} education - High School Diploma (Gimnasio Piagetano) | Software Analysis and Development (SENA).
+ * @param {string} leadership - Future Business Leaders Training Program (Universidad Externado de Colombia) | Military Dragoon Course (National Army of Colombia).
+ * @param {string} certifications - Data Cleaning & Exploratory Analysis with Python, STEM Methodology, Research Project Structuring, Child Pedagogy, Automotive Mechanics, First Aid & Basic Health Care (SENA).
+ * @param {string} interests - UI/UX Design, Relational Databases & AI.
+ * @param {string} hobbies - Basketball, Call of Duty, Music & Coding.
+ * @param {string} approachable - Always open to collaboration, feel free to reach out.
+ * @param {string} strengths - Innovative, Ambitious & Resolute.
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} LuisFlorez.
  */
 ```
 
