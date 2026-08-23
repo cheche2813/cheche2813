@@ -120,16 +120,17 @@
     <br><br>
     <kbd>
       <b>Automation, Data Science & AI</b>
-      <br><br>
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" title="Puppeteer"/> 
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="playwright" title="Playwright"/> 
-      <img width="35px" src="https://seeklogo.com/images/A/appium-logo-789E23D0D3-seeklogo.com.png" alt="appium" title="Appium"/> 
+      <br><br> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="Matplotlib"/> 
       <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="Scikit-Learn"/> 
       <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" title="ChatGPT"/> 
-      <img width="35px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/> 
+	  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/> 
+      <img width="35px" src="https://raw.githubusercontent.com/skylining/Claude-SVG/main/claude-ai-icon.svg" alt="claude" title="Claude AI"/> 
+      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="cursor" title="Cursor IDE"/> 
+      <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="opencode" title="Open Code"/> 
+      <img width="35px" src="https://api.iconify.design/lucide:sparkles.svg" alt="antigravity" title="Antigravity"/>
     </kbd>
     <br><br>
     <kbd>
