@@ -165,10 +165,10 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary><b>Estadísticas de GitHub</b></summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cheche2813&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" alt="Estadísticas de GitHub de Luis Florez">
   </p>
 </details>
 
