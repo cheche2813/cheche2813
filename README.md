@@ -148,8 +148,8 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
-		<img width="30px" src="https://cdn.simpleicons.org/prezi/000000" alt="Prezi" title="Prezi"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" width="120px" />
+	  <img width="30px" src="https://cdn.simpleicons.org/prezi/000000" alt="Prezi" title="Prezi"/>
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="30px" />
     </kbd>
     <kbd>
       <kbd>Tools & Environments</kbd>
