@@ -127,8 +127,8 @@
       <br>
       <br>
 		<img width="30px" src="https://img.icons8.com/color/100/chatgpt.png" alt="chatgpt" title="ChatGPT"/>
-		<img width="30px" src="https://img.icons8.com/color/100/google-gemini.png" alt="gemini" title="Gemini Pro"/>
-		<img width="30px" src="https://img.icons8.com/color/100/claude-ia.png" alt="claude" title="Claude AI"/>
+		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gemini" title="Google Gemini"/>
+		<img width="30px" src="https://img.icons8.com/color/100/claude-ia.png" alt="Claude" title="Claude AI"/>
 		<img width="30px" src="https://img.icons8.com/color/100/cursor.png" alt="cursor" title="Cursor IDE"/>
 		<img width="30px" src="https://img.icons8.com/color/100/source-code.png" alt="opencode" title="OpenCode"/>
 		<img width="30px" src="https://img.icons8.com/color/100/rocket--v1.png" alt="antigravity" title="AntiGravity"/>
@@ -148,7 +148,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prezi/prezi-original.svg" alt="prezi" title="Prezi"/>
+		<img width="30px" src="https://cdn.simpleicons.org/prezi/000000" alt="Prezi" title="Prezi"/>
     </kbd>
     <kbd>
       <kbd>Tools & Environments</kbd>
