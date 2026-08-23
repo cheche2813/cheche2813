@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/proyectos.gif" alt="Carrusel de proyectos personales" width="800" />
+  <img src="proyectos.gif" alt="Carrusel de proyectos personales" width="800" />
 </div>
 
 <p align = "center">
