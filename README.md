@@ -94,83 +94,52 @@
 </details>
 
 <details>
-<summary align="center"><b>Tech Stack & Tools</b></summary>
-<br>
-<div align="center">
-  <p align="center">
-    <!-- Programming Languages -->
+<summary>Herramientas y Tecnologías</summary>
+<div>
+  <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
-      <br><br>
-      <img width="35px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /> 
+      <kbd>Lenguajes de Programación</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS3"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
     </kbd>
-
-    <!-- Front-end -->
     <kbd>
-      <kbd>Front-end</kbd>
-      <br><br>
-      <img width="35px" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /> 
+      <kbd>Bases de Datos</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/> 
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="sql" title="SQL / ERD"/> 
     </kbd>
-
-    <!-- Databases -->
     <kbd>
-      <kbd>Databases</kbd>
-      <br><br>
-      <img width="35px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /> 
+      <kbd>Análisis de Datos y Ciencia de Datos</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="Matplotlib / Seaborn"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" title="Scikit-Learn"/> 
     </kbd>
-
-    <br><br>
-
-    <!-- Data Science, Automation & AI -->
+    <br>
+    <br>
     <kbd>
-      <kbd>Automation, Data Science & AI</kbd>
-      <br><br>
-      <img width="35px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=python" alt="Python Data Science" title="Python Data Science" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=dJ9L2B282I12&format=png" alt="NumPy" title="NumPy" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=xJ9L2B282I12&format=png" alt="Pandas" title="Pandas" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=v9L2B282I12&format=png" alt="Matplotlib" title="Matplotlib" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=38272&format=png" alt="Scikit-Learn" title="Scikit-Learn" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=113575&format=png" alt="ChatGPT" title="ChatGPT" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=63784&format=png" alt="Claude AI" title="Claude AI" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=103328&format=png" alt="Cursor" title="Cursor IDE" /> 
+      <kbd>Diseño y Prototipado UI/UX</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" title="Canva"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma UI / Glassmorphism"/> 
     </kbd>
-
-    <br><br>
-
-    <!-- Tools & Environments -->
     <kbd>
-      <kbd>Tools & Environments</kbd>
-      <br><br>
-      <img width="35px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=22982&format=png" alt="Jupyter" title="Jupyter Notebooks" /> 
-    </kbd>
-
-    <!-- Design & Multimedia -->
-    <kbd>
-      <kbd>Design & Multimedia</kbd>
-      <br><br>
-      <img width="35px" src="https://skillicons.dev/icons?i=canva" alt="Canva" title="Canva" /> 
-      <img width="35px" src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" /> 
-    </kbd>
-
-    <br><br>
-
-    <!-- Microsoft Office Suite -->
-    <kbd>
-      <kbd>Microsoft Office Suite</kbd>
-      <br><br>
-      <img width="35px" src="https://img.icons8.com/?size=100&id=117561&format=png" alt="Word" title="Microsoft Word" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=117563&format=png" alt="Excel" title="Microsoft Excel" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=117560&format=png" alt="PowerPoint" title="Microsoft PowerPoint" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=117558&format=png" alt="Access" title="Microsoft Access" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=117557&format=png" alt="Teams" title="Microsoft Teams" /> 
-      <img width="35px" src="https://img.icons8.com/?size=100&id=117559&format=png" alt="Outlook" title="Microsoft Outlook" /> 
+      <kbd>Entornos y Herramientas</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="colab" title="Google Colab / Jupyter"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="Git"/> 
+      <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github" title="GitHub"/> 
     </kbd>
   </p>
 </div>
