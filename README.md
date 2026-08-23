@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cheche2813&label=Perfil%20Visto&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cheche2813&label=Profile%20Views&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
