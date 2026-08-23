@@ -168,7 +168,7 @@
   <summary><b>Estadísticas de GitHub</b></summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cheche2813&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" alt="Estadísticas de GitHub de cheche2813" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cheche2813&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" alt="Estadísticas de GitHub de cheche2813" />
   </p>
 </details>
 
