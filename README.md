@@ -220,11 +220,17 @@
 <details>
   <summary><b>Dosis Gratuita de Dopamina / Free DOSE hit</b></summary>
   <br>
-  <small><i>DOSE (dopamina, oxitocina, serotonina y endorfina). Recarga la página si la dosis no hizo efecto. / Refresh page if dose was ineffective.</i></small>
+  <small><i>Un poco de humor de código. Recarga la página si necesitas otra dosis. / Refresh page for another dev meme.</i></small>
   <br>
-  <div align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Chiste para desarrolladores" />
-  </div>
+  <p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Chiste Dev" />
+  </p>
+  <br>
+  <blockquote>
+    🤖 <b>— Hay 10 tipos de personas en el mundo:</b> las que entienden binario y las que no.
+    <br><br>
+    ☕ <b>— A programmer's life:</b> <i>"It works on my machine!"</i>
+  </blockquote>
 </details>
 
 <details>
@@ -234,7 +240,7 @@
     <tr>
       <td width="50%" valign="top">
         <h2>¡Trabajemos juntos! / Let's Work Together!</h2>
-        <p>Si tienes preguntas sobre desarrollo web, documentación o IA, escríbeme por correo. / If you have questions about web development, documentation, or AI, feel free to email me: <a href="mailto:nexioratechnologies@gmail.com">nexioratechnologies@gmail.com</a>.</p>
+        <p>Si tienes preguntas sobre desarrollo web, documentación o IA, escríbeme por correo. / If you have questions about web development, documentation, or AI, feel free to email me: <a href="mailto:cheche2813@gmail.com">cheche2813@gmail.com</a>.</p>
       </td>
       <td width="50%" valign="top">
         <h2>Retroalimentación / Feedback Loop</h2>
