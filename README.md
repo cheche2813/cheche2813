@@ -3,22 +3,7 @@
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/cheche2813/PROYECTO-1">
-          <img src="assets/proyecto1.png" width="350px" alt="Proyecto 1"/><br />
-          <b>Nombre Proyecto 1</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/cheche2813/PROYECTO-2">
-          <img src="assets/proyecto2.png" width="350px" alt="Proyecto 2"/><br />
-          <b>Nombre Proyecto 2</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/proyectos.gif" alt="Carrusel de proyectos personales" width="800" />
 </div>
 
 <p align = "center">
