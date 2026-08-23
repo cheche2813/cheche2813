@@ -1,6 +1,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cheche2813&label=Profile%20Views&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
+
+<details>
+  <summary><b>📂 Ver Proyectos Personales</b></summary>
+  <br>
+  <div align="center">
+    <img src="assets/proyecto1.png" width="600px" alt="Proyecto 1">
+    <p><b>Proyecto 1:</b> Descripción breve del proyecto.</p>
+    <hr>
+    <img src="assets/proyecto2.png" width="600px" alt="Proyecto 2">
+    <p><b>Proyecto 2:</b> Descripción breve del proyecto.</p>
+  </div>
+</details>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
