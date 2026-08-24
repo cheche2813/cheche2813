@@ -2,6 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=cheche2813&label=Profile%20Views&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
+<!-- CAMBIO DE IDIOMA / LANGUAGE SWITCHER -->
+<div align="center">
+  <a href="#-versión-en-español">
+    <img src="https://img.shields.io/badge/Idioma-Español-es?style=for-the-badge&logo=spain&logoColor=white&color=0052B4" alt="Español" />
+  </a>
+  <a href="#-english-version">
+    <img src="https://img.shields.io/badge/Language-English-en?style=for-the-badge&logo=greatbritain&logoColor=white&color=D80027" alt="English" />
+  </a>
+</div>
+
 <div align="center">
   <img src="proyectos.gif" alt="Carrusel de proyectos personales" width="400" />
 </div>
