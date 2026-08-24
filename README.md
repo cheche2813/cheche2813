@@ -3,16 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=cheche2813&label=Profile%20Views&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-<!-- CAMBIO DE IDIOMA / LANGUAGE SWITCHER -->
-<div align="center">
-  <a href="#-versión-en-español">
-    <img src="https://img.shields.io/badge/Idioma-Español-es?style=for-the-badge&logo=spain&logoColor=white&color=0052B4" alt="Español" />
-  </a>
-  <a href="#-english-version">
-    <img src="https://img.shields.io/badge/Language-English-en?style=for-the-badge&logo=greatbritain&logoColor=white&color=D80027" alt="English" />
-  </a>
-</div>
-
 <div align="center">
   <img src="proyectos.gif" alt="Carrusel de proyectos personales" width="400" />
 </div>
@@ -40,40 +30,6 @@
 </a>
   </div>
 </div>
-
-<details>
-<summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
-
-```js
-/**
- * Represents Luis Florez.
- *
- * @constructor
- * @param {string} location - Colombia.
- * @param {string} languages - Spanish, English (English Dot Works 1-6, SENA).
- * @param {string} role - Software Analysis and Development Student.
- * @param {string} specialization - Full-Stack Web Development, Databases & Project Management.
- * @param {string} education - High School Diploma (Gimnasio Piagetano) | Software Analysis and Development (SENA).
- * @param {string} leadership - Future Business Leaders Training Program (Universidad Externado de Colombia) | Military Dragoon Course (National Army of Colombia).
- * @param {string} certifications - Data Cleaning & Exploratory Analysis with Python, STEM Methodology, Research Project Structuring, Child Pedagogy, Automotive Mechanics, First Aid & Basic Health Care (SENA).
- * @param {string} interests - UI/UX Design, Relational Databases & AI.
- * @param {string} hobbies - Basketball, Call of Duty, Music & Coding.
- * @param {string} approachable - Always open to collaboration, feel free to reach out.
- * @param {string} strengths - Innovative, Ambitious & Resolute.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} LuisFlorez.
- */
-```
-
-</div>
-
-</details>
 
 <details>
 <summary>Sobre mi</summary>
@@ -181,25 +137,6 @@
 </details>
 
 <details>
-  <summary><b>Open Source Contributions & Featured Projects</b></summary>
-  <br>
-  <ul>
-    <li>
-      <b>Zupply:</b> Developed and optimized core functionalities for the supply chain management platform.
-    </li>
-    <li>
-      <b>SIREC - Recycling Management System:</b> Designed the database architecture and backend logic for an automated recycling and incentives platform.
-    </li>
-    <li>
-      <b>Nexiora Technologies:</b> Built tailored web platforms and modern UI/UX digital solutions for small and medium businesses.
-    </li>
-    <li>
-      <b>Data Science & ML Repositories:</b> Implemented exploratory data analysis (EDA) scripts, machine learning models, and visual dashboards in Python.
-    </li>
-  </ul>
-</details>
-
-<details>
   <summary><b>Contribuciones de Código Abierto y Proyectos</b></summary>
   <br>
   <ul>
@@ -220,27 +157,18 @@
 
 <!-- ESPAÑOL E INGLÉS EN UN SOLO DESPLEGABLE -->
 <details>
-  <summary><b>Frase del Día / Quote</b></summary>
+  <summary><b>Frase del Día </b></summary>
   <br>
   <blockquote>
     “Un bug nunca es solo un error. Representa algo más grande. Un error de pensamiento. Eso es lo que te define.”
     <br><strong>— Mr. Robot (Elliot Alderson)</strong>
   </blockquote>
-  <hr>
-  <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>— Mr. Robot (Elliot Alderson)</strong>
-  </blockquote>
 </details>
 
 <details>
-  <summary><b>Dosis Gratuita de Dopamina / Free DOSE hit</b></summary>
+  <summary><b>Dosis Gratuita de Dopamina </b></summary>
   <br>
   <small><i>Un poco de humor de código. Recarga la página si necesitas otra dosis. / Refresh page for another dev meme.</i></small>
-  <br>
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Chiste Dev" />
-  </p>
   <br>
 	<p align="center">
 	<table style="border: 2px solid #00bcff; border-radius: 10px; background-color: #0d1117; padding: 15px; width: 100%; max-width: 500px;">
